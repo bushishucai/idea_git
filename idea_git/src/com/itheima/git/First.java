@@ -8,4 +8,8 @@ public class First {
     public void tset(){
         System.out.println("fjdoiaj;fklds");
     }
+
+    public void sss(){
+        int i = 0;
+    }
 }
